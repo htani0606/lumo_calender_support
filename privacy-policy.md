@@ -63,6 +63,6 @@ Google によるデータ利用の詳細は、以下をご確認ください。
 
 本ポリシーに関するお問い合わせ先:
 
-- Email: `YOUR_EMAIL@example.com`
+- Email: `tani@ymail.ne.jp`
 
 上記連絡先は、公開前に実際の問い合わせ先へ変更してください。
